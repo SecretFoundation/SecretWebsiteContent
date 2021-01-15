@@ -4,7 +4,7 @@ layout: ~/layouts/MainPageLayout
 
 <template v-slot:title>
 
-## Secret Network Community
+## Secret Network Community QUICK TEST
 
 </template>
 
