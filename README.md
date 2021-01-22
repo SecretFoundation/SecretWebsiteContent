@@ -14,14 +14,12 @@ There are a two reasons we made this choice:
 
 So now that I know the why, what about he how? How does one contribute to the content of the website?
 
-Contributions can be handled in two ways, one fast and easy, the other more robust and controlled.
+Contributions can be made either in the github UI (Easy) or by forking the content repo and updating locally (Less Easy). Regardless of which you choose you will need to understand the structure of content repo.
 
-The first method is to just create, edit, or delete md files through the Github UI. To do this follow these steps.
-
-Find the right file:
+Finding files:
 Files names are mapped to routes on the site. Thuse if you want to add to the https://scrt.network/brand page, you would edit brand.md in the root directory. Files with subroots, e.g. https://scrt.network/ecosystem/overview is located in the ecosystem folder in the file overview.md
 
-Get comfortable with the format:
+Getting comfortable with the format:
 Although the files are .md files, they are not pure markdown. They contain references to components in the form of html tags. An example of this might look something like
 ```
 <home-card to="/about/about-secret-network" vertical>
@@ -30,5 +28,17 @@ Although the files are .md files, they are not pure markdown. They contain refer
 ![Community](https://scrt.network/img/home-card/learn-about-secret-network.png)
 </home-card>
 ```
+This renders a "home card" component. In terms of "content" you have customized a component to say "Learn About Secret Network" and chosen and image to fill the card. The image is saved in the img/home-card folder. The look and feel of that content is determined by the component which exists in the core Secret Website Repo, in a file called HomeCard.vue in "src/components/home/HomeCard.vue"
 
-This renders a "home card" component that looks like this: ![Image](./img/examples/home-card.png)
+Examples of components, and how they can be used, can be found on the contribute page of the site: htts://scrt.network/contribute
+
+Adding good content:
+Content can take the form of written or visual.
+
+For written content we do not have a style guide, however we do recommend you look at the existing content and try to match the language as best as possible. A consistent voice is key to building and maintaining a reliable brand.
+
+For visual content we do have a style guide. All style info can be found at https://scrt.network/brand. It is highly recommended that you download the BrandBook and look through it to get comfortable. You will also want look at the official Figma file https://www.figma.com/file/1MWJTRPRpoZUmIpzE4cMj2/Secret-Network-Website?node-id=270%3A0. This file is read-only, but any frame can be copied and worked on in a seperate file and then shared with the website commitee. If the changes require a component, you will need to do that in the core repo.
+
+Process of Contributing
+Directly on Github
+Changes can be made directly to .md files by editing in github. Be sure to leave a good commit message so your changes are clear. When you submit changes, assuming you do not have commit privledges, you will be creating a pull request. Once you have done this, go to the Website room on discord and tell us that you submitted a pull request. We will review and if it looks good, merge. Once merged the development site will automatically update to reflect the changes. You can look at them and make any updates you need to match your intent. At regular intervals the live site will be manually rebuilt to reflect the content changes made.
