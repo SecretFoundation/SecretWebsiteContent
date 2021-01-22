@@ -4,7 +4,7 @@ layout: ~/layouts/ThankYouLayout
 
 <text-banner>
 
-### Subscription Confirmed
+### Subscription Confirmed 
 
 </text-banner>
 
