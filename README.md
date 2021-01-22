@@ -1,16 +1,16 @@
-#### Welcome to the Secret Website Content Repository.
+### Welcome to the Secret Website Content Repository.
 
 This Repository is a companion to the Secret Website Repository. Think of this as a sort of content management system or content database for the Secret Website.
 
-##### First some helpful links:
+#### First some helpful links:
 - [Development Site](https://secret-website-development.onrender.com/)
 - [Figma](https://www.figma.com/file/1MWJTRPRpoZUmIpzE4cMj2/Secret-Network-Website?node-id=270%3A0)
 - [Contribution Page](https://scrt.network/contribute)
 - [Brand Page](https://scrt.network/brand)
 
-##### Why is this seperated into a seperate repository?
+#### Why is this seperated into a seperate repository?
 
-There are a two reasons we made this choice:
+###### We made this choice for the following reasons:
 
 1. Seperation of Concerns: A traditional content based website like the Secret Network Website would have a content management system connected to a database. The CMS would be in charge the creating, updating and deleting from the database, while the site itself would read that content and render it to the vistor. The problem with this type of a system is overhead both in terms of management and cost. The Secret Website instead reads all data from Markdown files that each represent a page. By moving those files to a seperate repo, we are in essence, adding a content management system in the form of a github repository. Creating, updating and deleting are thus seperated from the website repo keeping the content management process in it's own world.
 
@@ -18,8 +18,9 @@ There are a two reasons we made this choice:
 
 3. Permissions: As we move forward we can be much more liberal with permissions allowing people to edit content without fear of effecting the core of the site architecture. We will be giving permissions to all commitee leads to start, but we expect that to expand as people more people show interest.
 
-So now that I know the why, what about he how? How does one contribute to the content of the website?
+So now that I know the why, what about the how? How does one contribute to the content of the website?
 
+#### Contributing
 Contributions can be made either in the github UI (Easy) or by forking the content repo and updating locally (Less Easy). Regardless of which you choose you will need to understand the structure of content repo.
 
 ##### Finding files:
