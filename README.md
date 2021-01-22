@@ -27,8 +27,8 @@ Although the files are .md files, they are not pure markdown. They contain refer
 <home-card to="/about/about-secret-network" vertical>
 ### **Learn about**<br>Secret Network
 <separator small />
-![Community](./img/home-card/learn-about-secret-network.png)
+![Community](https://scrt.network/img/home-card/learn-about-secret-network.png)
 </home-card>
 ```
 
-This renders a "home card" component that looks like this: ![Image](.img/examples/home-card.png)
+This renders a "home card" component that looks like this: ![Image](./img/examples/home-card.png)
