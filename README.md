@@ -31,4 +31,4 @@ Although the files are .md files, they are not pure markdown. They contain refer
 </home-card>
 ```
 
-This renders a "home card" component that looks like this:
+This renders a "home card" component that looks like this: ![Image](.img/examples/home-card.png)
