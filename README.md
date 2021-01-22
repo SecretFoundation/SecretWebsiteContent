@@ -22,10 +22,13 @@ Find the right file:
 Files names are mapped to routes on the site. Thuse if you want to add to the https://scrt.network/brand page, you would edit brand.md in the root directory. Files with subroots, e.g. https://scrt.network/ecosystem/overview is located in the ecosystem folder in the file overview.md
 
 Get comfortable with the format:
-Although the files are .md files, they are not pure markdown. They contain references to components in the form of html tags. An example of this might look something like ```<home-card to="/about/about-secret-network" vertical>
+Although the files are .md files, they are not pure markdown. They contain references to components in the form of html tags. An example of this might look something like
+```
+<home-card to="/about/about-secret-network" vertical>
 ### **Learn about**<br>Secret Network
 <separator small />
 ![Community](./img/home-card/learn-about-secret-network.png)
-</home-card>```
+</home-card>
+```
 
 This renders a "home card" component that looks like this:
