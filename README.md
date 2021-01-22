@@ -3,10 +3,10 @@ Welcome to the Secret Website Content Repository.
 This Repository is a companion to the Secret Website Repository. Think of this as a sort of content management system or content database for the Secret Website.
 
 First some helpful links:
-[Development Site](https://secret-website-development.onrender.com/)
-[Figma](https://www.figma.com/file/1MWJTRPRpoZUmIpzE4cMj2/Secret-Network-Website?node-id=270%3A0)
-[Contribution Page](https://scrt.network/contribute)
-[Brand Page](https://scrt.network/brand)
+- [Development Site](https://secret-website-development.onrender.com/)
+- [Figma](https://www.figma.com/file/1MWJTRPRpoZUmIpzE4cMj2/Secret-Network-Website?node-id=270%3A0)
+- [Contribution Page](https://scrt.network/contribute)
+- [Brand Page](https://scrt.network/brand)
 
 Why is this seperated into a seperate repository?
 
