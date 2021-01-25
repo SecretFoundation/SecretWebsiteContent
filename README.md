@@ -47,5 +47,15 @@ For written content we do not have a style guide, however we do recommend you lo
 For visual content we do have a style guide. All style info can be found at https://scrt.network/brand. It is highly recommended that you download the BrandBook and look through it to get comfortable. You will also want look at the official Figma file https://www.figma.com/file/1MWJTRPRpoZUmIpzE4cMj2/Secret-Network-Website?node-id=270%3A0. This file is read-only, but any frame can be copied and worked on in a seperate file and then shared with the website commitee. If the changes require a component, you will need to do that in the core repo.
 
 #### Process of Contributing
+
 ##### Directly on Github
 Changes can be made directly to .md files by editing in github. Be sure to leave a good commit message so your changes are clear. When you submit changes, assuming you do not have commit privledges, you will be creating a pull request. Once you have done this, go to the Website room on discord and tell us that you submitted a pull request. We will review and if it looks good, merge. Once merged the development site will automatically update to reflect the changes. You can look at them and make any updates you need to match your intent. At regular intervals the live site will be manually rebuilt to reflect the content changes made.
+
+##### Local Development Environment
+Setting up a local environment to make content changes is an involved process. The typical reason for a local dev environment would be for building components or making edits to the core site code. If this is the only goal then there is no need to work on the content locally, the local environment setup will pull content from this repository, the same as the production or development environments. That having been said, there are still benefits to a fully local development environment including content, not least being that it is just nicer to work locally. If you would like to this setup first go to the core site repository and follow the instructions to setup a local development site. Then do the following:
+- Fork the content repo
+-- In the upper right hand side of the github click `Form Me`. This will generate repository in your personal github.
+- Clone the repository to your local machine
+- Add an environment variable to your machine
+  ```export REPO=<your forked repo here>```
+  Example `export REPO=https://github.com/stakeordie/SecretWebsiteContent.git`
