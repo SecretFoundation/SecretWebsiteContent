@@ -94,7 +94,7 @@ The overall shape of the S is reminiscent of a yin-yang, again reflecting the du
 
 ![Primary logo - White](../src/assets/brandbook/primary-logo-white.png)
 
-<a class="download-link" href="/logo-primary-white.svg" download>SVG</a> | <a class="download-link" href="/logo-primary-white.png" download>PNG</a>
+<a class="download-link" href="/secretnetwork-logo-primary-black.svg" download>SVG</a> | <a class="download-link" href="/secretnetwork-logo-primary-black.png" download>PNG</a>
 
 </div>
 
@@ -102,7 +102,7 @@ The overall shape of the S is reminiscent of a yin-yang, again reflecting the du
 
 ![Primary logo - Black](../src/assets/brandbook/primary-logo-black.png)
 
-<a class="download-link" href="/logo-primary-black.svg" download>SVG</a> | <a class="download-link" href="/logo-primary-black.png" download>PNG</a>
+<a class="download-link" href="/secretnetwork-logo-primary-white.svg" download>SVG</a> | <a class="download-link" href="/secretnetwork-logo-primary-white.png" download>PNG</a>
 
 </div>
 
@@ -116,7 +116,7 @@ The overall shape of the S is reminiscent of a yin-yang, again reflecting the du
 
 ![Secondary logo - White](../src/assets/brandbook/secondary-logo-white.png)
 
-<a class="download-link" href="/logo-secondary-white.svg" download>SVG</a> | <a class="download-link" href="/logo-secondary-white.png" download>PNG</a>
+<a class="download-link" href="/secretnetwork-logo-secondary-black.svg" download>SVG</a> | <a class="download-link" href="/secretnetwork-logo-secondary-black.png" download>PNG</a>
 
 </div>
 
@@ -124,7 +124,7 @@ The overall shape of the S is reminiscent of a yin-yang, again reflecting the du
 
 ![Secondary logo - Black](../src/assets/brandbook/secondary-logo-black.png)
 
-<a class="download-link" href="/logo-secondary-black.svg" download>SVG</a> | <a class="download-link" href="/logo-secondary-black.png" download>PNG</a>
+<a class="download-link" href="/secretnetwork-logo-secondary-white.svg" download>SVG</a> | <a class="download-link" href="/secretnetwork-logo-secondary-white.png" download>PNG</a>
 
 </div>
 
