@@ -8,6 +8,6 @@ layout: ~/layouts/MainPageLayout
 
 </template>
 
-<slim-column>
+<single-column>
     <calendar></calendar>
-</slim-column>
+</single-column>
