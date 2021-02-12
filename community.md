@@ -170,11 +170,11 @@ Sharing Secrets - a new series from the Secret Foundation - explores the biggest
 
 </single-column>
 
-<slim-column>
+<template v-slot:title>
 
 ### Join the Conversation
 
-</slim-column>
+</template>
 
 <card-holder columns="3">
 
