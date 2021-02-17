@@ -78,14 +78,15 @@ Blockchains are public by default. That means that all the data used in smart co
 
 #### Announcement
 
-### The Secret Ethereum Bridge is LIVE on Mainnet!
+### SecretSwap is LIVE!
 
-Users can now get programmable privacy for their ETH and select ERC-20s. Plus: up to 2 million SCRT are expected to be available to support bridge mining and the launch of Secret DeFi!
 
-<next-button class="turquoise" tag="Read more" to="/blog/secret-ethereum-bridge-is-live-on-mainnet">
+Secret #DeFi is here. Now you can trade secret tokens with frontrunning resistance, improved privacy protections, and low cost. Start using SecretSwap now and stay tuned for more info on next step, a native governance token for Secret DeFi, and more rewards.
+
+<next-button class="turquoise" tag="Read more" to="/blog/secretswap-is-live-on-mainnet">
 
 </next-button>
-<next-button class="turquoise" tag="Try It Out!" to="https://bridge.scrt.network">
+<next-button class="turquoise" tag="Try It Out!" to="https://bridge.scrt.network/swap#Swap">
 
 </next-button>
 
@@ -93,7 +94,7 @@ Users can now get programmable privacy for their ETH and select ERC-20s. Plus: u
 
 <template v-slot:content-right>
 
-![](./img/announcement/eth-bridge.jpg)
+![](./img/announcement/secretswap.jpg)
 
 </template>
 
