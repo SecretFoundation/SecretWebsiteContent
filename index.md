@@ -4,7 +4,7 @@ layout: ~/layouts/HomePageLayout
 
 <slim-column>
 
-## Want to build a better internet? Solve for privacy.
+## Want to build a better internet? Solve for privacy!
 
 Secret Network is the first blockchain with privacy-preserving smart contracts. That means applications built on Secret can utilize encrypted data without revealing it to anyone, even the nodes in the network. For the first time, Secret Network allows developers to build powerful, permissionless, privacy-preserving applications - Secret Apps.
 
