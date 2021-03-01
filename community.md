@@ -118,7 +118,7 @@ Secret Agents are community members who work alongside each other towards Secret
 
 #### Committees
 
-There is no more consequential way to get involved with Secret Network than to [become a Secret Agent](https://airtable.com/shr6FPA7SW6p2gDTY) and join a community committee. Committees are made up of experts and enthusiasts working together to build our network and ecosystem by executing Secret Missions! From Awareness, to Development, to Education, to Design, there's a committee to fit every community member!
+There is no more consequential way to get involved with Secret Network than to [become a Secret Agent](https://forms.gle/8NbTmUNVgbUkHY8eA) and join a community committee. Committees are made up of experts and enthusiasts working together to build our network and ecosystem by executing Secret Missions! From Awareness, to Development, to Education, to Design, there's a committee to fit every community member!
 
 <next-button class="turquoise" tag="Join Us Now" to="/committees">
 
