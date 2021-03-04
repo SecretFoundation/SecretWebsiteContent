@@ -28,6 +28,22 @@ Sharing Secrets - a new series from the Secret Foundation - explores the biggest
 
 </slim-column>
 
+<submenu>
+
+<template v-slot:content-center>
+
+<g-link orange to="/community">Overview</g-link>
+
+<g-link blue to="/committees">Committees</g-link>
+
+<g-link yellow to="/podcast">Podcasts</g-link>
+
+<g-link red to="/media">Media</g-link>
+
+</template>
+
+</submenu>
+
 <slim-column class="all-episodes">
 
 ### All Episodes

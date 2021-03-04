@@ -14,6 +14,22 @@ Whether you’re a developer, an artist, a writer, an entrepreneur, or a dreamer
 
 </slim-column>
 
+<submenu>
+
+<template v-slot:content-center>
+
+<g-link orange to="/community">Overview</g-link>
+
+<g-link blue to="/committees">Committees</g-link>
+
+<g-link yellow to="/podcast">Podcasts</g-link>
+
+<g-link red to="/media">Media</g-link>
+
+</template>
+
+</submenu>
+
 <slim-column>
 
 ### Join the Conversation
