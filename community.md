@@ -186,11 +186,7 @@ Sharing Secrets - a new series from the Secret Foundation - explores the biggest
 
 </single-column>
 
-<template v-slot:title>
 
-### Join the Conversation
-
-</template>
 
 <card-holder columns="3">
 
