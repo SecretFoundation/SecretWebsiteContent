@@ -13,7 +13,6 @@ on:
 
 
 jobs:
-  if: github.repository == 'SecretFoundation/SecretWebsite'
   curl:
     runs-on: ubuntu-latest
     steps:
