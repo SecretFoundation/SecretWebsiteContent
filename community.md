@@ -71,9 +71,9 @@ Secret Agents are community members who work alongside each other towards Secret
 <grid-item name="Vladimir" tag="Planet Earth" tagTwo="" to="" src="grid-item/agents/Vladimir - Planet Earth.png">
 
 </grid-item>
-
-<grid-item name="James" tag="USA" tagTwo="" to="" src="grid-item/agents/James - USA.png">
-
+ 
+<grid-item name="Carter" tag="USA" tagTwo="" to="" src="grid-item/agents/Carter - USA.png">
+ 
 </grid-item>
 
 <grid-item name="Josh" tag="UK" tagTwo="" to="" src="grid-item/agents/Josh - UK.png">
@@ -109,10 +109,6 @@ Secret Agents are community members who work alongside each other towards Secret
 </grid-item>
 
 <grid-item name="Jan" tag="Belgium" tagTwo="" to="" src="grid-item/agents/Jan - Belgium.png" >
-
-</grid-item>
-
-<grid-item name="Carter" tag="USA" tagTwo="" to="" src="grid-item/agents/Carter - USA.png">
 
 </grid-item>
 

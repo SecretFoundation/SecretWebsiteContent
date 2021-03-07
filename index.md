@@ -148,7 +148,7 @@ Learn about some of the critical applications being built on Secret Network - an
 
 <template v-slot:left>
 
-## Latest Media
+## Featured Media
 
 </template>
 
