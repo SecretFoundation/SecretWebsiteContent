@@ -14,7 +14,7 @@ Whether you’re a developer, an artist, a writer, an entrepreneur, or a dreamer
 
 </slim-column>
 
-<submenu>
+<!-- <submenu>
 
 <template v-slot:content-center>
 
@@ -28,7 +28,7 @@ Whether you’re a developer, an artist, a writer, an entrepreneur, or a dreamer
 
 </template>
 
-</submenu>
+</submenu> -->
 
 <slim-column>
 
