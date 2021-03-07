@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
-name: dev-build-trigger
+name: prod-build-trigger
 
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ develop ]
+    branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -19,4 +19,4 @@ jobs:
     - name: curl
       uses: wei/curl@master
       with:
-        args: https://api.render.com/deploy/srv-bv9rtvesm5i6j600g3e0?key=nS7rLAWVYk0
+        args: https://api.render.com/deploy/srv-bv7v45rlc6cgrcitcsrg?key=v1PagL0RBLU

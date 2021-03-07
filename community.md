@@ -14,7 +14,7 @@ Whether you’re a developer, an artist, a writer, an entrepreneur, or a dreamer
 
 </slim-column>
 
-<submenu>
+<!-- <submenu>
 
 <template v-slot:content-center>
 
@@ -28,7 +28,7 @@ Whether you’re a developer, an artist, a writer, an entrepreneur, or a dreamer
 
 </template>
 
-</submenu>
+</submenu> -->
 
 <slim-column>
 
@@ -186,11 +186,11 @@ Sharing Secrets - a new series from the Secret Foundation - explores the biggest
 
 </single-column>
 
-<template v-slot:title>
+<single-column>
 
-### Join the Conversation
+## Join the Conversation
 
-</template>
+</single-column>
 
 <card-holder columns="3">
 
