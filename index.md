@@ -2,7 +2,7 @@
 layout: ~/layouts/HomePageLayout
 ---
 
-<slim-column class="learn-more">
+<slim-column class="read-more">
 
 ## Want to build a better internet? Solve for privacy.
 
@@ -197,7 +197,7 @@ Learn about some of the critical applications being built on Secret Network - an
 .latest-blog-cards {
   padding-bottom: $gutter-xxxlarge;
 }
-.learn-more {
+.read-more {
     .next-button {
       margin-right: auto;
     }
