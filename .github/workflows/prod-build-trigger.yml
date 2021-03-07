@@ -19,4 +19,4 @@ jobs:
     - name: curl
       uses: wei/curl@master
       with:
-        args: https://api.render.com/deploy/srv-bv7v45rlc6cgrcitcsrg?key=v1PagL0RBLU
+        args: ${{ secrets.PROD_BUILD_WEBHOOK_URL }}
