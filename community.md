@@ -186,6 +186,12 @@ Sharing Secrets - a new series from the Secret Foundation - explores the biggest
 
 </single-column>
 
+<single-column>
+
+## Join the Conversation
+
+</single-column>
+
 <card-holder columns="3">
 
 <community-card name="Secret Forum" to="https://forum.scrt.network/" class="forum">
