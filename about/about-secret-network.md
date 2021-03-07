@@ -285,22 +285,6 @@ While our community is constantly exploring other innovative privacy solutions (
 
 <faq>
 
-####  What is the relationship between<br>ENG and Secret Network?
-
-Enigma is also the name of an ERC20 token (known as ENG) that was issued in 2017. At this moment, there are no entities developing technologies or networks based on the utilization of ENG. There is an ongoing community-organized swap between ENG and SCRT (the native coin of Secret Network) that is expected to last until at least the end of 2020. The swap is 1:1 between ENG and SCRT. More information can be found on these other sites:
-
-[Secretnodes.org History of the ENG/SCRT Swap](https://secretnodes.org/#/ss)
-
-[Secretswap.io - Swap Homepage](https://secretswap.io)
-
-[Binance Will Support the Enigma (ENG) Mainnet Swap](https://www.binance.com/en/support/articles/08082b3cbb874a23bd0b21aedae24852)
-
-[Coindesk Coverage of the Community Swap](https://www.coindesk.com/community-behind-privacy-focused-smart-contract-forges-ahead-after-settlement)
-
-</faq>
-
-<faq>
-
 ####  What is Cosmos, and why are you<br>using their technologies?
 
 [Cosmos](https://cosmos.network/) represents a standard approach to developing scalable and interoperable blockchain applications. We believe the Cosmos SDK, Tendermint and Inter-Blockchain Communication Protocol (IBC) are groundbreaking since they are looking ahead to a future of many interconnected, app-specific blockchains. We're excited to see how Secret Network can bring more privacy solutions to the Cosmos ecosystem. [Learn more about this on our blog.](https://blog.scrt.network/secret-hub/)
