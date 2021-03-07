@@ -13,11 +13,10 @@ on:
 
 
 jobs:
-  if: github.repository == 'SecretFoundation/SecretWebsite'
   curl:
     runs-on: ubuntu-latest
     steps:
     - name: curl
       uses: wei/curl@master
       with:
-        args: https://api.render.com/deploy/srv-bv9rtvesm5i6j600g3e0?key=nS7rLAWVYk0
+        args: ${{ secrets.DEV_BUILD_WEBHOOK_URL }}
