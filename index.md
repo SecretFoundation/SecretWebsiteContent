@@ -2,15 +2,15 @@
 layout: ~/layouts/HomePageLayout
 ---
 
-<slim-column>
+<slim-column class="home-hero-text">
 
 ## Want to build a better internet? Solve for privacy.
 
 Secret Network is the first blockchain with **privacy-preserving smart contracts.** Applications built on Secret Network utilize encrypted data without exposing it to anyone, even the nodes in the network. 
 
-Secret Network empowers developers to build **decentralized, permissionless, privacy-preserving applications - Secret Apps.** To obtain global adoption, users and organizations need granular control over their data. Secret Network has privacy by default, securing and scaling Web 3.0.
+Secret Network empowers developers to build **decentralized, permissionless, privacy-preserving applications - Secret Apps.** For blockchain technology to reach global adoption, users and organizations need granular control over their data. Private by default - transparent when needed - Secret Network's programmable privacy delivers this level of control, securing and scaling Web 3.0.
 
-<next-button class="turquoise move-left" tag="Read more" location="move-left" to="/about/about-secret-network">
+<next-button class="turquoise" tag="Read more" location="move-left" to="/about/about-secret-network">
 
 </next-button>
 
@@ -185,6 +185,9 @@ Learn about some of the critical applications being built on Secret Network - an
 </single-column>
 
 <style lang="scss">
+.home-hero-text {
+  padding-top: 0px;
+}
 .ecosystem {
   @include respond-to("large and up") {
     padding-top: 0;
