@@ -196,19 +196,37 @@ Secret Network uses <a href="https://docs.tendermint.com/master/introduction/wha
 
 </card>
 
-<card class="contract-card">
+</card-holder>
 
-<template v-slot:header>
+<announcement>
 
-#### Ecosystem Developer Program
+<template v-slot:content-left>
+
+#### Announcement
+
+### Developer Ecosystem Grants are LIVE!
+
+
+Secret Network is growing fast - now you can grow with us and receive grants for your efforts! Proposals are split into three categories: Secret Apps, Ecosystem, and Network improvements.
+
+<next-button class="turquoise" tag="Grant Ideas" to="/grant-application-ideas">
+
+</next-button>
+<next-button class="turquoise" tag="Grant Application Process" to="/grant-application-process">
+
+</next-button>
 
 </template>
 
-Apply for a <a href= "https://scrt.network/blog/announcing-secret-network-grant-program">Secret Network grant</a> to receive funding for building Secret Apps, integrating ecosystem products, or creating network improvements.
+<template v-slot:content-right>
 
-</card>
+![](../img/announcement/secret-grants.png)
 
-</card-holder>
+</template>
+
+</announcement>
+
+
 
 <style lang="scss">
 #secret-network-developerbrresources {
