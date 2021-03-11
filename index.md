@@ -10,6 +10,10 @@ Secret Network is the first blockchain with **privacy-preserving smart contracts
 
 Secret Network empowers developers to build **decentralized, permissionless, privacy-preserving applications - Secret Apps.** To obtain global adoption, users and organizations need granular control over their data. Secret Network has privacy by default, securing and scaling Web 3.0.
 
+<next-button class="turquoise move-left" tag="Read more" location="move-left" to="/about/about-secret-network">
+
+</next-button>
+
 </slim-column>
 
 <triplet-columns>
