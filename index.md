@@ -10,6 +10,10 @@ Secret Network is the first blockchain with privacy-preserving smart contracts. 
 
 Blockchains are public by default. That means that all the data used in smart contracts is exposed to everyone. For blockchain technology to achieve global adoption, users and organizations need control over how their data is used – they can’t just expose it to everyone. Secret Network solves the problem of privacy, helping to secure and scale the decentralized web.
 
+<next-button class="turquoise move-left" tag="Read more" location="move-left" to="/about/about-secret-network">
+
+</next-button>
+
 </slim-column>
 
 <triplet-columns>
