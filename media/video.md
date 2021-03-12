@@ -1,6 +1,6 @@
 ---
-layout: ~/layouts/MediaLayout
-nav: community
+layout: ~/layouts/subs/MediaLayout
+nav: media
 ---
 
 Video Content
