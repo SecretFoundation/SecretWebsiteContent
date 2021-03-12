@@ -1,6 +1,6 @@
 ---
 layout: ~/layouts/subs/MediaLayout
-nav: media
+nav: community
 ---
 
 <twin-columns class="statements">
