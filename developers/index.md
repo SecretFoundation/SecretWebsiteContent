@@ -128,6 +128,34 @@ Use Secret Contracts to build decentralized applications with improved usability
 
 </card-holder>
 
+<announcement>
+
+<template v-slot:content-left>
+
+#### Announcement
+
+### Developer Ecosystem Grants are LIVE!
+
+
+Secret Network is growing fast - now you can grow with us and receive grants for your efforts! Proposals are split into three categories: Secret Apps, Ecosystem, and Network improvements.
+
+<next-button class="turquoise" tag="Grant Ideas" to="/grant-application-ideas">
+
+</next-button>
+<next-button class="turquoise" tag="Grant Application Process" to="/grant-application-process">
+
+</next-button>
+
+</template>
+
+<template v-slot:content-right>
+
+![](../img/announcement/secret-grants.png)
+
+</template>
+
+</announcement>
+
 <single-column>
 
 ### About Secret Contracts
@@ -197,35 +225,6 @@ Secret Network uses <a href="https://docs.tendermint.com/master/introduction/wha
 </card>
 
 </card-holder>
-
-<announcement>
-
-<template v-slot:content-left>
-
-#### Announcement
-
-### Developer Ecosystem Grants are LIVE!
-
-
-Secret Network is growing fast - now you can grow with us and receive grants for your efforts! Proposals are split into three categories: Secret Apps, Ecosystem, and Network improvements.
-
-<next-button class="turquoise" tag="Grant Ideas" to="/grant-application-ideas">
-
-</next-button>
-<next-button class="turquoise" tag="Grant Application Process" to="/grant-application-process">
-
-</next-button>
-
-</template>
-
-<template v-slot:content-right>
-
-![](../img/announcement/secret-grants.png)
-
-</template>
-
-</announcement>
-
 
 
 <style lang="scss">
@@ -385,5 +384,8 @@ Secret Network is growing fast - now you can grow with us and receive grants for
     @include respond-to("small and down") {
         width: 100%;
     }
+}
+.announcement {
+    margin-top: 30px;
 }
 </style>
