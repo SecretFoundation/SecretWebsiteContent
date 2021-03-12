@@ -4,7 +4,7 @@ layout: ~/layouts/MainPageLayout
 
 <template v-slot:title>
 
-## Secret Media Articles
+## Media
 
 </template>
 
