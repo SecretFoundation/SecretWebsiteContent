@@ -8,7 +8,7 @@ layout: ~/layouts/MainPageLayout
 
 </template>
 
-<!-- <submenu>
+<submenu>
 
 <template v-slot:content-center>
 
@@ -22,7 +22,7 @@ layout: ~/layouts/MainPageLayout
 
 </template>
 
-</submenu> -->
+</submenu>
 
 <single-column>
 
