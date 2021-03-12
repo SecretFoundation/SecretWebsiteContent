@@ -385,4 +385,7 @@ Secret Network uses <a href="https://docs.tendermint.com/master/introduction/wha
         width: 100%;
     }
 }
+.announcement {
+    margin-top: 30px;
+}
 </style>
