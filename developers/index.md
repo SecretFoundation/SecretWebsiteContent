@@ -272,28 +272,6 @@ Secret Network uses <a href="https://docs.tendermint.com/master/introduction/wha
 
 </developer-card>
 
-<developer-card class="contract-card">
-
-<template v-slot:header>
-
-#### Ecosystem Developer Program
-
-</template>
-
-<template v-slot:icon>
-
-![Ecosystem](../img/developer-card/ecodevpro.png)
-
-</template>
-
-<template v-slot:description>
-
-Join Secret Network developer program to receive help from funding to support in contract development and go-to-market strategy.
-
-</template>
-
-</developer-card>
-
 </card-holder>
 
 
