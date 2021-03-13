@@ -200,6 +200,8 @@ Build contracts with <a href="https://build.scrt.network/dev/privacy-model-of-se
 
 </template>
 
+<template v-slot:description>
+
 Bridges to <a href="bridge.scrt.network/eth" target="_blank">Ethereum</a> and Cosmos ecosystem to improve usability in existing ecosystems.
 
 </template>
