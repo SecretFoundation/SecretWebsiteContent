@@ -136,7 +136,7 @@ Use Secret Contracts to build decentralized applications with improved usability
 
 <card-holder>
 
-<card class="contract-card">
+<developer-card class="contract-card">
 
 <template v-slot:header>
 
@@ -144,23 +144,43 @@ Use Secret Contracts to build decentralized applications with improved usability
 
 </template>
 
-Build contracts with encrypted inputs, output and state enabled by a decentralized network of TEEs.
+<template v-slot:icon>
 
-</card>
-
-<card class="contract-card">
-
-<template v-slot:header>
-
-#### Interoperability that brings privacy to public blockchains
+![Smart Contracts](../img/developer-card/smartcontracts.png)
 
 </template>
 
+<template v-slot:description>
+
+Build contracts with encrypted inputs, output and state enabled by a decentralized network of TEEs.
+
+</template>
+
+</developer-card>
+
+<developer-card class="contract-card">
+
+<template v-slot:header>
+
+#### Interoperability bringing privacy to public blockchains
+
+</template>
+
+<template v-slot:icon>
+
+![Interoperability](../img/developer-card/interop.png)
+
+</template>
+
+<template v-slot:description>
+
 Bridges to <a href="/blog/secret-ethereum-bridge-privacy/" target="_blank">Ethereum</a> and Cosmos ecosystem to improve usability in existing ecosystems.
 
-</card>
+</template>
 
-<card class="contract-card">
+</developer-card>
+
+<developer-card class="contract-card">
 
 <template v-slot:header>
 
@@ -168,11 +188,21 @@ Bridges to <a href="/blog/secret-ethereum-bridge-privacy/" target="_blank">Ether
 
 </template>
 
+<template v-slot:icon>
+
+![Rust](../img/developer-card/rust.png)
+
+</template>
+
+<template v-slot:description>
+
 Build secret contracts using Rust.
 
-</card>
+</template>
 
-<card class="contract-card">
+</developer-card>
+
+<developer-card class="contract-card">
 
 <template v-slot:header>
 
@@ -180,11 +210,21 @@ Build secret contracts using Rust.
 
 </template>
 
+<template v-slot:icon>
+
+![Tendermint](../img/developer-card/tendermint.png)
+
+</template>
+
+<template v-slot:description>
+
 Secret Network uses Tendermint Consensus model for Byzantine Fault Tolerant Consensus.
 
-</card>
+</template>
 
-<card class="contract-card">
+</developer-card>
+
+<developer-card class="contract-card">
 
 <template v-slot:header>
 
@@ -192,11 +232,21 @@ Secret Network uses Tendermint Consensus model for Byzantine Fault Tolerant Cons
 
 </template>
 
+<template v-slot:icon>
+
+![Wallet](../img/developer-card/wallet.png)
+
+</template>
+
+<template v-slot:description>
+
 Keplr provides a metamask-like user experience in Secret Contract.
 
-</card>
+</template>
 
-<card class="contract-card">
+</developer-card>
+
+<developer-card class="contract-card">
 
 <template v-slot:header>
 
@@ -204,9 +254,19 @@ Keplr provides a metamask-like user experience in Secret Contract.
 
 </template>
 
+<template v-slot:icon>
+
+![Ecosystem](../img/developer-card/ecodevpro.png)
+
+</template>
+
+<template v-slot:description>
+
 Join Secret Network developer program to receive help from funding to support in contract development and go-to-market strategy.
 
-</card>
+</template>
+
+</developer-card>
 
 </card-holder>
 
