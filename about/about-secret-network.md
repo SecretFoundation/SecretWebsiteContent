@@ -108,6 +108,10 @@ Secret Apps - powered by “secret”, privacy-preserving smart contracts - are 
 
 The Secret Network blockchain itself is based on Cosmos SDK / Tendermint, meaning the network has its own independent consensus, on-chain governance, and features like slashing and delegation. It is secured by the native coin Secret (SCRT), which must be staked by network validators and is used for transaction fees as well as governance.
 
+<next-button class="turquoise" tag="Read the Secret Network Gray Paper" location="move-left" to="../graypaper">
+
+</next-button>
+
 </slim-column>
 
 <slim-column>
