@@ -14,7 +14,7 @@ layout: ~/layouts/MainPageLayout
 
 Use Secret Contracts to build decentralized applications with improved usability and explore new frontiers in web3.
 
-<a class="white-button" href="https://github.com/enigmampc/secret-contracts-guide" target="_blank">Quickstart</a>
+<a class="white-button" href="https://build.scrt.network/dev/developers.html" target="_blank">Quickstart</a>
 
 </slim-column>
 
@@ -38,7 +38,7 @@ Use Secret Contracts to build decentralized applications with improved usability
 
 <template v-slot:footer>
 
-<next-button tag="Learn more" to="https://learn.scrt.network/protocol.html#how-secret-works">
+<next-button tag="Learn more" to="https://build.scrt.network/dev/quickstart.html">
 
 </next-button>
 
@@ -128,6 +128,34 @@ Use Secret Contracts to build decentralized applications with improved usability
 
 </card-holder>
 
+<announcement>
+
+<template v-slot:content-left>
+
+#### Announcement
+
+### Developer Ecosystem Grants are LIVE!
+
+
+Secret Network is growing fast - now you can grow with us and receive grants for your efforts! Proposals are split into three categories: Secret Apps, Ecosystem, and Network improvements.
+
+<next-button class="turquoise" tag="Grant Ideas" to="/grant-application-ideas">
+
+</next-button>
+<next-button class="turquoise" tag="Grant Application Process" to="/grant-application-process">
+
+</next-button>
+
+</template>
+
+<template v-slot:content-right>
+
+![](../img/announcement/secret-grants.png)
+
+</template>
+
+</announcement>
+
 <single-column>
 
 ### About Secret Contracts
@@ -144,7 +172,7 @@ Use Secret Contracts to build decentralized applications with improved usability
 
 </template>
 
-Build contracts with encrypted inputs, output and state enabled by a decentralized network of TEEs.
+Build contracts with <a href="https://build.scrt.network/dev/privacy-model-of-secret-contracts.html#tx-parameter-verification"> encrypted</a> inputs, output and state enabled by a decentralized network of TEEs.
 
 </card>
 
@@ -156,7 +184,7 @@ Build contracts with encrypted inputs, output and state enabled by a decentraliz
 
 </template>
 
-Bridges to <a href="/blog/secret-ethereum-bridge-privacy/" target="_blank">Ethereum</a> and Cosmos ecosystem to improve usability in existing ecosystems.
+Bridges to <a href="bridge.scrt.network/eth" target="_blank">Ethereum</a> and Cosmos ecosystem to improve usability in existing ecosystems.
 
 </card>
 
@@ -180,7 +208,7 @@ Build secret contracts using Rust.
 
 </template>
 
-Secret Network uses Tendermint Consensus model for Byzantine Fault Tolerant Consensus.
+Secret Network uses <a href="https://docs.tendermint.com/master/introduction/what-is-tendermint.html">Tendermint</a> Consensus model for Byzantine Fault Tolerant Consensus.
 
 </card>
 
@@ -192,23 +220,12 @@ Secret Network uses Tendermint Consensus model for Byzantine Fault Tolerant Cons
 
 </template>
 
-Keplr provides a metamask-like user experience in Secret Contract.
-
-</card>
-
-<card class="contract-card">
-
-<template v-slot:header>
-
-#### Ecosystem Developer Program
-
-</template>
-
-Join Secret Network developer program to receive help from funding to support in contract development and go-to-market strategy.
+<a href="https://wallet.keplr.app/#/dashboard">Keplr</a> provides a metamask-like user experience in Secret Contract.
 
 </card>
 
 </card-holder>
+
 
 <style lang="scss">
 #secret-network-developerbrresources {
@@ -367,5 +384,8 @@ Join Secret Network developer program to receive help from funding to support in
     @include respond-to("small and down") {
         width: 100%;
     }
+}
+.announcement {
+    margin-top: 30px;
 }
 </style>

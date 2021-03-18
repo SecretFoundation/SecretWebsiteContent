@@ -212,7 +212,7 @@ Hind Regular (400) is used body copy, and **Hind Bold (700) is used for bold bod
 
 <grid columns="6">
 
-<color-palette class="black" hex="#1B1B1B" rgb="rgb(27, 27, 27)"></color-palette>
+<color-palette class="black" hex="#151A20" rgb="rgb(21, 26, 32)"></color-palette>
 
 <color-palette class="white" hex="#FFFFFF" rgb="rgb(255, 255, 255)"></color-palette>
 
@@ -276,7 +276,7 @@ Hind Regular (400) is used body copy, and **Hind Bold (700) is used for bold bod
 
 <grid columns="6">
 
-<color-palette class="black" hex="#1B1B1B" rgb="rgb(27, 27, 27)"></color-palette>
+<color-palette class="black" hex="#151A20" rgb="rgb(21, 26, 32)"></color-palette>
 
 <color-palette class="white" hex="#FFFFFF" rgb="rgb(255, 255, 255)"></color-palette>
 
