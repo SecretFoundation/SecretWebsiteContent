@@ -1,28 +1,6 @@
 ---
-layout: ~/layouts/MainPageLayout
+layout: ~/layouts/subs/MediaLayout
 ---
-
-<template v-slot:title>
-
-## Secret Media Articles
-
-</template>
-
-<!-- <submenu>
-
-<template v-slot:content-center>
-
-<g-link orange to="/community">Overview</g-link>
-
-<g-link blue to="/committees">Committees</g-link>
-
-<g-link yellow to="/podcast">Podcasts</g-link>
-
-<g-link red to="/media">Media</g-link>
-
-</template>
-
-</submenu> -->
 
 <single-column>
 
