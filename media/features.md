@@ -1,5 +1,6 @@
 ---
 layout: ~/layouts/subs/MediaLayout
+nav: media
 ---
 
 <single-column>
@@ -8,7 +9,10 @@ layout: ~/layouts/subs/MediaLayout
 
 <grid columns="3">
 
-<media-card tag="podcast" title="Private Smart Contracts: Pomp Podcast" src="media-card/image1.png" to="https://www.youtube.com/watch?v=Kx9hb3U7pfs" cta="Watch Now"></media-card>
+<media-card tag="article" title="What is Secret Network (SCRT)?" src="media-card/dycrpt-secret-hero.png" to="https://decrypt.co/resources/what-is-secret-network-scrt-formerly-enigma" cta="Read Article" size="short" :squiggle="false"></media-card>
+
+
+<media-card tag="podcast" title="Private Smart Contracts: Pomp Podcast" src="media-card/image1.png" to="https://www.youtube.com/watch?v=Kx9hb3U7pfs" cta="Watch Now" size="short"></media-card>
 
 <media-card tag="podcast" title="Secret Network on The Defiant Podcast" src="media-card/image2.png" to="https://anchor.fm/thedefiant/episodes/Privacy-Might-be-the-Only-Thing-Left-That-Makes-Web-3-0-a-Viable-Alternative-Tor-Bair-of-Secret-Foundation-el9n52" cta="Listen Now"></media-card>
 
