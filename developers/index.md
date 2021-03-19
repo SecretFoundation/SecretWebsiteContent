@@ -180,7 +180,7 @@ Secret Network is growing fast - now you can grow with us and receive grants for
 
 <template v-slot:description>
 
-Build contracts with <a href="https://build.scrt.network/dev/privacy-model-of-secret-contracts.html#tx-parameter-verification"> encrypted</a> inputs, output and state enabled by a decentralized network of TEEs.
+Build contracts with <a href="https://build.scrt.network/dev/privacy-model-of-secret-contracts.html#tx-parameter-verification" target="_blank"> encrypted</a> inputs, output and state enabled by a decentralized network of TEEs.
 
 </template>
 
@@ -246,7 +246,7 @@ Build secret contracts using Rust.
 
 <template v-slot:description>
 
-Secret Network uses <a href="https://docs.tendermint.com/master/introduction/what-is-tendermint.html">Tendermint</a> Consensus model for Byzantine Fault Tolerant Consensus.
+Secret Network uses <a href="https://docs.tendermint.com/master/introduction/what-is-tendermint.html" target="_blank">Tendermint</a> Consensus model for Byzantine Fault Tolerant Consensus.
 
 </template>
 
@@ -268,7 +268,7 @@ Secret Network uses <a href="https://docs.tendermint.com/master/introduction/wha
 
 <template v-slot:description>
 
-<a href="https://wallet.keplr.app/#/dashboard">Keplr</a> provides a metamask-like user experience in Secret Contract.
+<a href="https://wallet.keplr.app/#/dashboard" target="_blank">Keplr</a> provides a metamask-like user experience in Secret Contract.
 
 </template>
 
