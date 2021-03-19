@@ -1,5 +1,5 @@
 ---
-layout: ~/layouts/MediaLayout
+layout: ~/layouts/subs/MediaLayout
 nav: media
 ---
 
