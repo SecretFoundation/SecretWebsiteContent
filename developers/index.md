@@ -164,7 +164,7 @@ Secret Network is growing fast - now you can grow with us and receive grants for
 
 <card-holder>
 
-<developer-card class="contract-card">
+<card class="contract-card">
 
 <template v-slot:header>
 
@@ -182,21 +182,13 @@ Secret Network is growing fast - now you can grow with us and receive grants for
 
 Build contracts with <a href="https://build.scrt.network/dev/privacy-model-of-secret-contracts.html#tx-parameter-verification" target="_blank"> encrypted</a> inputs, output and state enabled by a decentralized network of TEEs.
 
-</template>
+</card>
 
-</developer-card>
-
-<developer-card class="contract-card">
+<card class="contract-card">
 
 <template v-slot:header>
 
-#### Interoperability bringing privacy to public blockchains
-
-</template>
-
-<template v-slot:icon>
-
-![Interoperability](../img/developer-card/interop.png)
+#### Interoperability that brings privacy to public blockchains
 
 </template>
 
@@ -204,11 +196,9 @@ Build contracts with <a href="https://build.scrt.network/dev/privacy-model-of-se
 
 Bridges to <a href="bridge.scrt.network/eth" target="_blank">Ethereum</a> and Cosmos ecosystem to improve usability in existing ecosystems.
 
-</template>
+</card>
 
-</developer-card>
-
-<developer-card class="contract-card">
+<card class="contract-card">
 
 <template v-slot:header>
 
@@ -216,21 +206,11 @@ Bridges to <a href="bridge.scrt.network/eth" target="_blank">Ethereum</a> and Co
 
 </template>
 
-<template v-slot:icon>
-
-![Rust](../img/developer-card/rust.png)
-
-</template>
-
-<template v-slot:description>
-
 Build secret contracts using Rust.
 
-</template>
+</card>
 
-</developer-card>
-
-<developer-card class="contract-card">
+<card class="contract-card">
 
 <template v-slot:header>
 
@@ -248,11 +228,9 @@ Build secret contracts using Rust.
 
 Secret Network uses <a href="https://docs.tendermint.com/master/introduction/what-is-tendermint.html" target="_blank">Tendermint</a> Consensus model for Byzantine Fault Tolerant Consensus.
 
-</template>
+</card>
 
-</developer-card>
-
-<developer-card class="contract-card">
+<card class="contract-card">
 
 <template v-slot:header>
 
@@ -270,9 +248,7 @@ Secret Network uses <a href="https://docs.tendermint.com/master/introduction/wha
 
 <a href="https://wallet.keplr.app/#/dashboard" target="_blank">Keplr</a> provides a metamask-like user experience in Secret Contract.
 
-</template>
-
-</developer-card>
+</card>
 
 </card-holder>
 
