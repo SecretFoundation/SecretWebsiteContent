@@ -90,7 +90,7 @@ Enabling more open and more usable gaming experiences.
 
 </template>
 
-<next-button tag="Read the FAQ" to="#frequently-asked-questions">
+<next-button tag="Read the FAQ" to="/about/about-secret-network/#frequently-asked-questions">
 
 </next-button>
 
@@ -107,6 +107,10 @@ Secret Network is a decentralized network of computers (secret nodes) that utili
 Secret Apps - powered by “secret”, privacy-preserving smart contracts - are built with CosmWasm smart contracts that are written in the Rust programming language and deployed on the Secret Network.
 
 The Secret Network blockchain itself is based on Cosmos SDK / Tendermint, meaning the network has its own independent consensus, on-chain governance, and features like slashing and delegation. It is secured by the native coin Secret (SCRT), which must be staked by network validators and is used for transaction fees as well as governance.
+
+<next-button class="turquoise" tag="Read the Secret Network Gray Paper" location="move-left" to="../graypaper">
+
+</next-button>
 
 </slim-column>
 
@@ -178,7 +182,7 @@ The work is verified as correct, and payment is released to the secret node that
 
 </card-holder>
 
-<slim-column>
+<slim-column id="frequently-asked-questions" name="frequently-asked-questions">
 
 ## Frequently Asked Questions
 
