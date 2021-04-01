@@ -36,7 +36,7 @@ Whether you’re a developer, an artist, a writer, an entrepreneur, or a dreamer
 
 Secret Agents are community members who work alongside each other towards Secret's mission of global adoption for open-source, privacy-centric technologies. They are the core of our community and the true secret to our success. Secret Agents are also eligible for project funding and compensated leadership positions. Meet a few of them below - and then...
 
-<next-button class="turquoise" tag="If you accept the call, become one yourself!" to="https://forms.gle/8NbTmUNVgbUkHY8eA"></next-button>
+<next-button tag="If you accept the call, become one yourself!" to="https://forms.gle/8NbTmUNVgbUkHY8eA"></next-button>
   
 <grid columns="5" class="agents-grid">
 
