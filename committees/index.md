@@ -18,22 +18,6 @@ If you'd like to contribute to any of the below committees - or start your own -
 
 </slim-column>
 
-<submenu>
-
-<template v-slot:content-center>
-
-<g-link orange to="/community">Overview</g-link>
-
-<g-link blue to="/committees">Committees</g-link>
-
-<g-link yellow to="/podcast">Podcasts</g-link>
-
-<g-link red to="/media">Media</g-link>
-
-</template>
-
-</submenu>
-
 <card-holder>
 
 <committee-card orange>

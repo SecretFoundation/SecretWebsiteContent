@@ -60,6 +60,10 @@ layout: ~/layouts/MainPageLayout
 
 </grid-item>
 
+<grid-item name="Secure Secrets" tag="validator"  tagTwo="developer" to="https://www.securesecrets.org/" src="grid-item/contributors/image13.png">
+
+</grid-item>
+
 </grid>
 
 </slim-column>

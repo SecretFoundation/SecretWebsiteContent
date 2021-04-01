@@ -158,7 +158,7 @@ Learn about some of the critical applications being built on Secret Network - an
 
 <template v-slot:right>
 
-<next-button tag="View all media" to="/media">
+<next-button tag="View all media" to="/media/features">
 
 </next-button>
 
