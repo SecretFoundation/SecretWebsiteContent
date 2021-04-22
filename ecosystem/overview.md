@@ -84,7 +84,7 @@ A few key network contributors are featured below.
 
 #### Announcement
 
-### Secret Network<br>Ecosystem Update:<br>March 2020
+### Secret Network<br>Ecosystem Update:<br>March 2021
 
 SecretSwap $SEFI genesis. Over $90M in TVL. Upcoming bridges to BSC, Monero, and more. Record tx's and gas use. First Secret Grant awarded for NFT development. And so much more from March!
 
