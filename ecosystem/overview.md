@@ -84,11 +84,11 @@ A few key network contributors are featured below.
 
 #### Announcement
 
-### Secret Network<br>Ecosystem Update:<br>November 2020
+### Secret Network<br>Ecosystem Update:<br>March 2020
 
-As we approach the December launch of our first Secret Bridge, bringing programmable privacy to Ethereum and ERC-20s, here's a look back at an eventful November for Secret Network!
+SecretSwap $SEFI genesis. Over $90M in TVL. Upcoming bridges to BSC, Monero, and more. Record tx's and gas use. First Secret Grant awarded for NFT development. And so much more from March!
 
-<next-button class="turquoise" tag="Read more" to="/blog/secret-network-ecosystem-update-november-2020">
+<next-button class="turquoise" tag="Read more" to="/blog/secret-network-ecosystem-update-march-2021">
 
 </next-button>
 
