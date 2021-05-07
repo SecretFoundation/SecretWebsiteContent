@@ -84,11 +84,11 @@ A few key network contributors are featured below.
 
 #### Announcement
 
-### Secret Network<br>Ecosystem Update:<br>November 2020
+### Secret Network<br>Ecosystem Update:<br>April 2021
 
-As we approach the December launch of our first Secret Bridge, bringing programmable privacy to Ethereum and ERC-20s, here's a look back at an eventful November for Secret Network!
+April brought substantial growth to Secret DeFi ($50M+ in liquidity on SecretSwap), the completion of Secret NFTs, a bridge via Plasm to Polkadot, and so much more. Catch up on an exciting month on the Secret Blog!
 
-<next-button class="turquoise" tag="Read more" to="/blog/secret-network-ecosystem-update-november-2020">
+<next-button class="turquoise" tag="Read more" to="/blog/secret-network-ecosystem-update-april-2021">
 
 </next-button>
 
