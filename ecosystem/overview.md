@@ -84,9 +84,9 @@ A few key network contributors are featured below.
 
 #### Announcement
 
-### Secret Network<br>Ecosystem Update:<br>March 2021
+### Secret Network<br>Ecosystem Update:<br>April 2021
 
-SecretSwap $SEFI genesis. Over $90M in TVL. Upcoming bridges to BSC, Monero, and more. Record tx's and gas use. First Secret Grant awarded for NFT development. And so much more from March!
+April brought substantial growth to Secret DeFi ($50M+ in liquidity on SecretSwap), the completion of Secret NFTs, a bridge via Plasm to Polkadot, and so much more. Catch up on an exciting month on the Secret Blog!
 
 <next-button class="turquoise" tag="Read more" to="/blog/secret-network-ecosystem-update-april-2021">
 
